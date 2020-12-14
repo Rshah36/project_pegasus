@@ -1,2 +1,2 @@
 # project_pegasus
-Building a myoelectric prosthesis
+Designing a custom myoelectric prosthesis for an 8-year-old with ASIA-A spinal cord injury.
