@@ -1,8 +1,12 @@
-# project_pegasus
+# Project Pegasus
 Designing a custom myoelectric prosthesis for an 8-year-old with ASIA-A spinal cord injury.
 
 ## Contents
+- [Data Collection](data-collection)
 - [Signal Processing](signal-processing)
+
+## Data Collection
+dataColelctionApp defines a web application which walks the client through the process of recording and storing data from MyoWare sensors and gyroscope via an Arduino UNO.
 
 ## Signal Processing
 Guides:
